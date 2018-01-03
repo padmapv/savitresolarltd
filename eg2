@@ -3,4 +3,6 @@ having contents
 ec2,s3
 iam
 autoscaling
+cloudwatch
+cloudformation
 ami
